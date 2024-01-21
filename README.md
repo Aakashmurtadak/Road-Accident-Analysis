@@ -1,1 +1,2 @@
 # Road-Accident-Analysis
+ The road accident analysis system provides a data-driven approach to understanding and mitigating traffic incidents. It aggregates and analyzes information such as accident locations, causes, and severity,current Casulties offering insights for preventing measure.through visualization and stastical measure,tools.in this dashboars analyzing,casulties by two years of data analysis etc.. 
